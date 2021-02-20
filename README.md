@@ -4,3 +4,6 @@ update README with instructions
 
 view NFT at
 https://testnets.opensea.io/
+
+note:
+![Screenshot](/assets/imgs/openSea.png)
