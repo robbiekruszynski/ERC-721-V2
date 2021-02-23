@@ -7,3 +7,7 @@ https://testnets.opensea.io/
 
 note:
 ![Screenshot](/assets/imgs/openSea.png)
+
+Personal note:
+
+Build out a README guide for newcomers
